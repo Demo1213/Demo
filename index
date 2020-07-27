@@ -1,0 +1,164 @@
+ ,<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>共青团广东理工学院委员会</title>
+<link rel="stylesheet" href="Demo.css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<div class="a">
+<div class="a1"></div>
+<div class="a2">共青团广东理工学院委员会</div>
+</div>
+
+<nav class="a">
+<ul>
+	<li><a href="index.html">首页</a></li>
+    <li><a href="ZZJG.html">组织机构</a></li>
+    <li><a href="TXZZ.html">团学组织</a></li>
+    <li><a href="SXJY.html">思想教育</a></li>
+    <li><a href="CXCY.html">创新创业</a></li>
+    <li><a href="SHSJ.html">社会实践</a></li>
+    <li><a href="XYWH.html">校园文化</a></li>
+    <li><a href="WSBS.html">办事指引</a></li>
+</ul>
+</nav>
+
+<div class="test1"></div>
+
+<nav  class="e">
+<figure>
+	<img src="HDYG.png" width="336" height="249" alt="Activity Forecast" />
+    <figcaption>
+    <ul>
+    	<li><a href="https://mp.weixin.qq.com/s/HfeHVhhCj63Jxj8XGybHaA">“芒果盒子，校园跑”倒计时开始啦！</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/Gk7MD8TDrnXqE8-b1MgqjQ">双选会 | 2019年广东理工学院 企业综合实习专场双选会</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/vKZbWBt9AmOquDlWagK-yQ">预告 | 广东理工学院2019年“挑战杯”大学生课外学术科技竞赛决赛</a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="TZGG.png" width="336" height="249" alt="Notification Announcement" />
+    <figcaption>
+    <ul>
+    	<li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="TQZX.png" width="336" height="249" alt="Information" />
+    <figcaption>
+    <ul>
+    	<li><a href="http://www.gdlgxy.com/tw/xueshengzuzhi/xueyuantuanwei/2018-11-01/1593.html">习近平总书记金句</a></li>
+        <li><a href="http://www.gdlgxy.com/tw/xueshengzuzhi/xueyuantuanwei/2018-11-01/1590.html">团员必读：共青团“三会两制一课”是什么？</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/Q8DDmd4Vtf-aGmOt64C1wg">论学习贯彻习近平总书记在中青年干部培训班上的重要讲话</a></li>
+     </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="XYDT.png" width="336" height="249" alt="Campus dynamic" />
+    <figcaption>
+    <ul>
+    	<li><a href="https://mp.weixin.qq.com/s/tk-aUUxKi2PeEOK41ZxVZw">第五届文体艺术节 · 畅享青春之趣味闯关</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/WQqfrqTbEvUQwaC1DXqn-A">双选会（二）| 面向未来，梦想起航</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/j4ZMFyEMGyi4iJEvPb9yxw">“芒果盒子校园跑” | 踏梦精彩之旅,青春蓄势待发</a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="YXFC.png" width="336" height="249" alt="Departments Elegant Demeanour" />
+    <figcaption>
+    <ul>
+    	<li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="STFM.png" width="336" height="249" alt="Community Iandscape" />
+    <figcaption>
+    <ul>
+    	<li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="CXCY.png" width="336" height="249" alt="Innovative Undertaking" />
+    <figcaption>
+    <ul>
+    	<li><a href="https://mp.weixin.qq.com/s/7cxM1x_MccUuZJPwRUJx5A">喜讯 | 我校在广东省第十五届“挑战杯”中获奖项目公布</a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="SHXJ.png" width="336" height="249" alt="Social Practice" />
+    <figcaption>
+    <ul>
+    	<li><a href="http://www.gdlgxy.com/tw/jiaodianyaowen/2018-10-28/1581.html">关于2018年西部计划的通知</a></li>
+        <li><a href="http://www.gdlgxy.com/tw/xueshengzuzhi/xueyuantuanwei/2018-11-08/1595.html">我院开展2018年大学生暑期“三下乡”社会实践活动</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/JBE3S-KdhHgia_oGL2ZJzQ">山区计划 | 做一件影响一生的事</a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+
+<figure>
+	<img src="BALC.png" width="336" height="249" alt="The Process" />
+    <figcaption>
+    <ul>
+    	<li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+    </figcaption>
+</figure>
+</nav>
+
+<br />
+<nav class="d">
+<ul>
+	<li>友情链接：</li>
+    <li><a href="http://www.gdlgxy.com/">广东理工学院&nbsp;&#124;&nbsp;</a></li>
+    <li><a href="http://www.ccyl.org.cn/">中国共青团&nbsp;&#124;&nbsp;</a></li>
+    <li><a href="http://www.gdcyl.org/Index.html">广东共青团&nbsp;&#124;&nbsp;</a></li>
+    <li><a href="http://www.gdcyl.org/xxb/">团省委学校部&nbsp;&#124;&nbsp;</a></li>
+    <li><a href="https://www.12355.net/">广东青年之声&nbsp;&#124;&nbsp;</a></li>
+    <li><a href="http://www.zqcyl.cn/">肇庆青年网</a></li></ul>
+</nav>
+</div>
+
+<footer>
+<div> 
+<nav class="j">
+共青团广东理工学院委员会&copy;2019
+</nav>
+</div>
+</footer>
+</body>
+</html>
